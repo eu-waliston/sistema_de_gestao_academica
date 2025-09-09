@@ -31,15 +31,3 @@ git clone https://github.com/seu-usuario/academic-management-system.git
 - JavaScript: Lógica de programação e manipulação de dados
 
 - LocalStorage: Armazenamento de dados no navegador
-
-## 📦 Estrutura do Projeto
-```
-academic-management-system/
-├── index.html          # Arquivo principal da aplicação
-├── README.md           # Documentação do projeto
-└── assets/             # Pasta para recursos adicionais
-    ├── images/         # Imagens e ícones
-    └── screenshots/    # Capturas de tela do sistema
-
-```
-
